@@ -1,0 +1,45 @@
+Quartus II Archive log --	C:/Users/Furkan/Desktop/aktas_furkan_141044029.qarlog
+
+Archive:	C:/Users/Furkan/Desktop/aktas_furkan_141044029.qar
+Date:		Wed Oct 25 21:06:02 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Furkan/Desktop/hw1/db/hw1-part2.db_info
+C:/Users/Furkan/Desktop/hw1/hw1-part2.qpf
+C:/Users/Furkan/Desktop/hw1/hw1-part2.qsf
+C:/Users/Furkan/Desktop/hw1/incremental_db/compiled_partitions/hw1-part2.db_info
+C:/Users/Furkan/Desktop/hw1/source/adder_5bit.v
+C:/Users/Furkan/Desktop/hw1/source/adder_5bit_testbench.v
+C:/Users/Furkan/Desktop/hw1/source/and_5bit.v
+C:/Users/Furkan/Desktop/hw1/source/and_5bit_testbench.v
+C:/Users/Furkan/Desktop/hw1/source/full_adder.v
+C:/Users/Furkan/Desktop/hw1/source/full_adder_testbench.v
+C:/Users/Furkan/Desktop/hw1/source/half_adder.v
+C:/Users/Furkan/Desktop/hw1/source/half_adder_testbench.v
+C:/Users/Furkan/Desktop/hw1/source/likeALU.v
+C:/Users/Furkan/Desktop/hw1/source/likeALU_demo.v
+C:/Users/Furkan/Desktop/hw1/source/likeALU_testbench.v
+C:/Users/Furkan/Desktop/hw1/source/mux_5bit.v
+C:/Users/Furkan/Desktop/hw1/source/mux_5bit_testbench.v
+C:/Users/Furkan/Desktop/hw1/source/or_5bit.v
+C:/Users/Furkan/Desktop/hw1/source/or_5bit_testbench.v
+C:/Users/Furkan/Desktop/hw1/source/xor_5bit.v
+C:/Users/Furkan/Desktop/hw1/source/xor_5bit_testbench.v
+c:/program files (x86)/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 22 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Oct 25 21:06:23 2017
+Source archive file:	C:/Users/Furkan/Desktop/aktas_furkan_141044029.qar
+Archive was extracted into	C:/Users/Furkan/Desktop/aktas_furkan_141044029_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Wed Feb 07 20:42:31 2018
+Source archive file:	C:/Users/Furkan/Desktop/project 1/part2/aktas_furkan_141044029.qar
+Archive was extracted into	C:/Users/Furkan/Desktop/project 1/part2/aktas_furkan_141044029_restored/
+		 - successfully.

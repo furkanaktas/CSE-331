@@ -1,0 +1,44 @@
+Quartus II Archive log --	C:/Users/Furkan/Desktop/141044029_restored/141044029.qarlog
+
+Archive:	C:/Users/Furkan/Desktop/141044029_restored/141044029.qar
+Date:		Tue Jan 02 15:04:45 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Furkan/Desktop/141044029_restored/assignment_defaults.qdf
+C:/Users/Furkan/Desktop/141044029_restored/data.mem
+C:/Users/Furkan/Desktop/141044029_restored/db/project03.db_info
+C:/Users/Furkan/Desktop/141044029_restored/incremental_db/compiled_partitions/project03.db_info
+C:/Users/Furkan/Desktop/141044029_restored/instruction.mem
+C:/Users/Furkan/Desktop/141044029_restored/mips_core.v
+C:/Users/Furkan/Desktop/141044029_restored/mips_data_mem.v
+C:/Users/Furkan/Desktop/141044029_restored/mips_instr_mem.v
+C:/Users/Furkan/Desktop/141044029_restored/mips_registers.v
+C:/Users/Furkan/Desktop/141044029_restored/project03.qpf
+C:/Users/Furkan/Desktop/141044029_restored/project03.qsf
+C:/Users/Furkan/Desktop/141044029_restored/registers.mem
+C:/Users/Furkan/Desktop/141044029_restored/simulation/modelsim/data.mem
+C:/Users/Furkan/Desktop/141044029_restored/simulation/modelsim/instruction.mem
+C:/Users/Furkan/Desktop/141044029_restored/simulation/modelsim/mips_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/simulation/modelsim/registers.mem
+C:/Users/Furkan/Desktop/141044029_restored/simulation/modelsim/res_data.mem
+C:/Users/Furkan/Desktop/141044029_restored/simulation/modelsim/res_registers.mem
+C:/Users/Furkan/Desktop/141044029_restored/source/ALU.v
+C:/Users/Furkan/Desktop/141044029_restored/source/ALU_Control_Sig.v
+C:/Users/Furkan/Desktop/141044029_restored/source/control_signals.v
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Jan 02 15:05:12 2018
+Source archive file:	C:/Users/Furkan/Desktop/141044029.qar
+Archive was extracted into	C:/Users/Furkan/Desktop/141044029_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Wed Feb 07 20:44:51 2018
+Source archive file:	C:/Users/Furkan/Desktop/final project/141044029.qar
+Archive was extracted into	C:/Users/Furkan/Desktop/final project/141044029_restored/
+		 - successfully.

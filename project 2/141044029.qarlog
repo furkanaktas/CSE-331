@@ -1,0 +1,56 @@
+Quartus II Archive log --	C:/Users/Furkan/Desktop/141044029_restored/project02.qarlog
+
+Archive:	C:/Users/Furkan/Desktop/141044029_restored/project02.qar
+Date:		Mon Nov 20 16:21:48 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Furkan/Desktop/141044029_restored/TEMP.mem
+C:/Users/Furkan/Desktop/141044029_restored/assignment_defaults.qdf
+C:/Users/Furkan/Desktop/141044029_restored/db/project02.db_info
+C:/Users/Furkan/Desktop/141044029_restored/incremental_db/compiled_partitions/project02.db_info
+C:/Users/Furkan/Desktop/141044029_restored/mips_core.v
+C:/Users/Furkan/Desktop/141044029_restored/mips_core_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/mips_register_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/mips_registers.v
+C:/Users/Furkan/Desktop/141044029_restored/project02.qpf
+C:/Users/Furkan/Desktop/141044029_restored/project02.qsf
+C:/Users/Furkan/Desktop/141044029_restored/simulation/modelsim/registers.mem
+C:/Users/Furkan/Desktop/141044029_restored/source/ALU.v
+C:/Users/Furkan/Desktop/141044029_restored/source/ALU_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/add.v
+C:/Users/Furkan/Desktop/141044029_restored/source/add_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/addu.v
+C:/Users/Furkan/Desktop/141044029_restored/source/addu_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/and_32bit.v
+C:/Users/Furkan/Desktop/141044029_restored/source/and_32bit_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/nine_to_one_mux.v
+C:/Users/Furkan/Desktop/141044029_restored/source/nine_to_one_mux_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/or_32bit.v
+C:/Users/Furkan/Desktop/141044029_restored/source/or_32bit_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sll.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sll_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sltu.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sltu_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sra.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sra_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/srl.v
+C:/Users/Furkan/Desktop/141044029_restored/source/srl_testbench.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sub.v
+C:/Users/Furkan/Desktop/141044029_restored/source/sub_testbench.v
+	======= Total: 33 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Mon Nov 20 16:22:52 2017
+Source archive file:	C:/Users/Furkan/Desktop/141044029.qar
+Archive was extracted into	C:/Users/Furkan/Desktop/141044029_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Wed Feb 07 20:44:26 2018
+Source archive file:	C:/Users/Furkan/Desktop/project 2/141044029.qar
+Archive was extracted into	C:/Users/Furkan/Desktop/project 2/141044029_restored/
+		 - successfully.

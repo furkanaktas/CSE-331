@@ -1,0 +1,106 @@
+Restore Archived Project report for project02
+Wed Feb 07 20:44:27 2018
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Wed Feb 07 20:44:27 2018 ;
+; Revision Name                   ; project02                             ;
+; Top-level Entity Name           ; mips_core                             ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Furkan/Desktop/project 2/141044029.qar' into the 'C:/Users/Furkan/Desktop/project 2/141044029_restored/' directory
+Info: Generated report 'project02.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 407 megabytes
+    Info: Processing ended: Wed Feb 07 20:44:27 2018
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++------------------------------------------------------+
+; Files Restored                                       ;
++------------------------------------------------------+
+; File Name                                            ;
++------------------------------------------------------+
+; TEMP.mem                                             ;
+; assignment_defaults.qdf                              ;
+; db/project02.db_info                                 ;
+; incremental_db/compiled_partitions/project02.db_info ;
+; mips_core.v                                          ;
+; mips_core_testbench.v                                ;
+; mips_register_testbench.v                            ;
+; mips_registers.v                                     ;
+; project02.qpf                                        ;
+; project02.qsf                                        ;
+; simulation/modelsim/registers.mem                    ;
+; source/ALU.v                                         ;
+; source/ALU_testbench.v                               ;
+; source/add.v                                         ;
+; source/add_testbench.v                               ;
+; source/addu.v                                        ;
+; source/addu_testbench.v                              ;
+; source/and_32bit.v                                   ;
+; source/and_32bit_testbench.v                         ;
+; source/nine_to_one_mux.v                             ;
+; source/nine_to_one_mux_testbench.v                   ;
+; source/or_32bit.v                                    ;
+; source/or_32bit_testbench.v                          ;
+; source/sll.v                                         ;
+; source/sll_testbench.v                               ;
+; source/sltu.v                                        ;
+; source/sltu_testbench.v                              ;
+; source/sra.v                                         ;
+; source/sra_testbench.v                               ;
+; source/srl.v                                         ;
+; source/srl_testbench.v                               ;
+; source/sub.v                                         ;
+; source/sub_testbench.v                               ;
++------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
